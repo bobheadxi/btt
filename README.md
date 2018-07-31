@@ -2,11 +2,14 @@
 <p align="center">
   bob's BetterTouchTool configurations
 </p>
-
 <p align="center">
-  <img src="/screenshots/base.png" width="70%" alt="Inertia"/>
+  <img src="/screenshots/base.png" width="90%" alt="base"/>
 </p>
+
+<br />
 
 ## Usage
 
 Import `bob.json` for the complete package. See `/scripts/` for hackery.
+
+<br />
