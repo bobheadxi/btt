@@ -10,6 +10,6 @@
 
 ## Usage
 
-Import `bob.json` for the complete package. See `/scripts/` for hackery.
+Import `bob.btt` for the complete package. See `/scripts/` for hackery.
 
 <br />
