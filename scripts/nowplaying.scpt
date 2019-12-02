@@ -2,10 +2,6 @@ if application "Spotify" is running then
 	tell application "Spotify"
 		return (get name of current track) & " - " & (get artist of current track)
 	end tell
-else if application "iTunes" is running then
-	tell application "iTunes"
-		return (get artist of current track) & " - " & (get name of current track)
-	end tell
 else if application "Safari" is running then
 	tell application "Safari"
 		repeat with t in tabs of windows
